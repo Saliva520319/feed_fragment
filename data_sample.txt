@@ -1,0 +1,20 @@
+大商业碎片化数据（20180424）
+脚本路径：/home/work/yaojun/survey/analyzeInsideFra.py
+结果路径：/home/work/yaojun/survey/cpuInsideFra.20180424
+================cpu====================
+cpuRateavg: 73.3955114261(APP峰值利用率均值)
+('smallerInsideFragementRate,smallerFragementSum,smallerFragementNum,greaterInsideFragementRate,greaterFragementSum,greaterFragementNum', 18.46964739573054, 145787575.96756363, 6679, 18.469647395730554, 145787575.96756372, 6509)
+================mem====================
+memRateavg: 63.0216133727
+('smallerInsideFragementRate,smallerFragementSum,smallerFragementNum,greaterInsideFragementRate,greaterFragementSum,greaterFragementNum', 9.740587948104416, 25476613.522089846, 9944, 9.740587948104155, 25476613.522089165, 6614)
+ 
+================cpu====================
+cpuRateavg: 90.616905194
+('smallerInsideFragementRate,smallerFragementSum,smallerFragementNum,greaterInsideF
+ragementRate,greaterFragementSum,greaterFragementNum', 26.511279457047234, 22973879
+4.39093423, 8344, 26.511279457047085, 229738794.39093292, 6921)
+================mem====================
+memRateavg: 63.0272943751
+('smallerInsideFragementRate,smallerFragementSum,smallerFragementNum,greaterInsideF
+ragementRate,greaterFragementSum,greaterFragementNum', 9.742912240015698, 25483569.
+59491792, 9944, 9.742912240015633, 25483569.59491775, 6622)
